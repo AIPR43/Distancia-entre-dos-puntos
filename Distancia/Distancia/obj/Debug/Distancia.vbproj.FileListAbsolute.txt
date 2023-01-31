@@ -1,0 +1,13 @@
+C:\Users\jhper\source\repos\Distancia\Distancia\bin\Debug\Distancia.exe.config
+C:\Users\jhper\source\repos\Distancia\Distancia\bin\Debug\Distancia.exe
+C:\Users\jhper\source\repos\Distancia\Distancia\bin\Debug\Distancia.pdb
+C:\Users\jhper\source\repos\Distancia\Distancia\bin\Debug\Distancia.xml
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.vbproj.AssemblyReference.cache
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.Form1.resources
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.Resources.resources
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.vbproj.GenerateResource.cache
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.vbproj.CoreCompileInputs.cache
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.exe
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.xml
+C:\Users\jhper\source\repos\Distancia\Distancia\obj\Debug\Distancia.pdb
